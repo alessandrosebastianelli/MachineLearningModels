@@ -1,7 +1,7 @@
 # Machine Learning Models
 Author: [Alessandro Sebastianelli](https://sebbyraft.github.io/)
 
-This repository contains Jupyer Notebooks with examples of Machine Learning models. The scope of this repository is purely educational.
+This repository contains Jupyter Notebooks with examples of Machine Learning models. The purpose of this repository is purely educational. 
 
 ## Categorical Boosting (CatBoost)
 
