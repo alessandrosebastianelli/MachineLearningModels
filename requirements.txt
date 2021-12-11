@@ -1,6 +1,6 @@
-numpy
-matplotlib
-catboost
-scikit-learn
-jupyterlab
-pandas
+numpy==1.21.4
+matplotlib==3.5.1
+catboost==1.0.3
+scikit-learn==1.0.1
+jupyterlab==3.2.5
+pandas==1.3.4
