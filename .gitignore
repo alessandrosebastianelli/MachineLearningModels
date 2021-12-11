@@ -1,0 +1,5 @@
+env
+catboost_info
+.ipynb_checkpoints
+weights
+.DS_Store
