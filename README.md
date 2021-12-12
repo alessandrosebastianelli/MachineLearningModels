@@ -9,3 +9,4 @@ Examples:
 
 - [Noise filtering](CatBoost/CatBoost-NoiseFiltering.ipynb)
 - [Object Detection](CatBoost/CatBoost-ObjectDetection.ipynb)
+- [Forecasting](CatBoost/CatBoost-Forecasting.ipynb)
